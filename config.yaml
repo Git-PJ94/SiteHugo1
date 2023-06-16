@@ -26,7 +26,7 @@ params:
   copyright: "Copyright &copy; 2022 Acme Corporation.
     All Rights Reserved."
   footer:
-  - title: About
+  - title: A Propos
     content: >
       Acme Corporation is the world's leading
       manufacturer of digital shapes. From squares and
